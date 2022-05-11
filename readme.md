@@ -1,0 +1,1 @@
+This contains most of my hacks to bootstrap automated things
