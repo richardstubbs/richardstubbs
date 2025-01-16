@@ -1,6 +1,6 @@
 # Hi there, I'm Richard! 👋
 
-Welcome to my GitHub profile! I'm a technical professional with a deep passion for Linux, sysops, and embedded systems. As a CTO and Director of Technology, I thrive at the crossroads of leadership, innovation, and hands-on engineering. My journey began in the 80s on an old [Apple \]\[+](https://en.wikipedia.org/wiki/Apple_II_Plus), where I fell in love with programming and problem-solving.
+Welcome to my GitHub profile! I'm a technical professional with a deep passion for Linux, sysops, and embedded systems. As a CTO and Director of Technology, I thrive at the crossroads of leadership, innovation, and hands-on engineering. My journey began in the 80s on an old [Apple \]\[+](https://en.wikipedia.org/wiki/Apple_II_Plus){:target="_blank"}, where I fell in love with programming and problem-solving.
 
 These days, I focus on standalone code, automation, solving specific challenges, and proof-of-concept projects while my excellent team handles full application development. I spend much of my time on code reviews, technical project scoping, YAML configurations, and bespoke automation. CI/CD pipelines, Dockerfiles, and infrastructure tweaks are my bread and butter. While most of my professional work happens on GitLab, I use GitHub for personal projects, home automation, and curating excellent open-source software.
 
@@ -20,7 +20,7 @@ These days, I focus on standalone code, automation, solving specific challenges,
 - **Languages:** Python, Bash.
 - **Technologies:** Linux, Containers, Git, Ansible.
 - **Hardware:** Embedded systems, small-board computers, and data centre infrastructure.
-- **DevSecOps:** Secrity, Infrastructure as code, automation, monitoring, metrics, and scalable systems design.
+- **DevSecOps:** Security, Infrastructure as code, automation, monitoring, metrics, and scalable systems design.
 
 ---
 
@@ -35,10 +35,10 @@ These days, I focus on standalone code, automation, solving specific challenges,
 
 ## 📫 Get in Touch
 
-- **X Profile:** [x.com/richardstubbs](https://x.com/richardstubbs)  
-- **Personal Website:** [www.richardstubbs.io](https://www.richardstubbs.io)  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/richardstubbs)  
-- **Website:** [AxisOps](http://www.axisops.com)  
+- **X Profile:** [x.com/richardstubbs](https://x.com/richardstubbs){:target="_blank"}  
+- **Personal Website:** [www.richardstubbs.io](https://www.richardstubbs.io){:target="_blank"}  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/richardstubbs){:target="_blank"}  
+- **Website:** [AxisOps](http://www.axisops.com){:target="_blank"}  
 
 Feel free to reach out if you share interests, have opportunities, or just want to chat about tech! 😄
 
